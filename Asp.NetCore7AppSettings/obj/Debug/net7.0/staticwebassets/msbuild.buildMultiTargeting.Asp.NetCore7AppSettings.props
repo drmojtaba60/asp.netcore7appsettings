@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Asp.NetCore7AppSettings.props" />
+</Project>
